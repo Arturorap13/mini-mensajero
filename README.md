@@ -1,7 +1,7 @@
 # mini-mensajero
 Mini aplicación full stack hecha con Flask y JavaScript puro para entrevistas técnicas.
 
-# 📨 Mini Mensajero - Full Stack App
+# 😂Mini Mensajero - Full Stack App
 
 Una pequeña aplicación full stack hecha con **Flask (backend)** y **HTML/JavaScript (frontend)**. Permite enviar y mostrar mensajes.
 
